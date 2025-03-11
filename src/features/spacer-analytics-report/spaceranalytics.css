@@ -1,0 +1,17 @@
+.main {
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.inhalation-container {
+    display: flex;
+    margin-top: 30;
+}
+
+.inhalation-components {
+    width: 50%;
+}
+
+.peak-graph-component {
+    margin-top: 20%;
+}
